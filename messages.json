@@ -1,0 +1,6 @@
+[
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n{'#10 1.911 error during build:\\n#10 1.911 Could not resolve \"./pages/Checkout\" from \"src/App.tsx\"\\n#10 1.911 file: /app/src/App.tsx'}\n\nPlease fix the issue."
+  }
+]
